@@ -1,8 +1,8 @@
 class Macdnsview < Formula
   desc "Look up DNS records for many domains and IP addresses at once"
   homepage "https://github.com/ebudist/macdnsview"
-  url "https://github.com/ebudist/macdnsview/archive/refs/tags/v0.5.0.tar.gz"
-  sha256 "23a36a8b0da7ad486dc789f13180434464c34ba46714e45894a1893f9fc44dc4"
+  url "https://github.com/ebudist/macdnsview/archive/refs/tags/v0.6.0.tar.gz"
+  sha256 "0e6aca99a6ff2c6552f12b4e69537c85b0e6f620bca934758048c880b40e2d0a"
   license "MIT"
 
   depends_on macos: :sonoma
